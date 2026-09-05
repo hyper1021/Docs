@@ -1,4 +1,4 @@
-# 🌐 SkyPay BD — Technical Asset Documentation & Architecture Guide
+# 🌐 SkyPay BD
 
 <div align="center">
 
